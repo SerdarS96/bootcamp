@@ -19,7 +19,7 @@ public class Health : MonoBehaviour
         if (currentHealth > 0)
         {
             anim.SetTrigger("hurt");
-            //iframes
+            
         }
         else
         {
